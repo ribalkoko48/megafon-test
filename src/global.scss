@@ -1,0 +1,55 @@
+/* stylelint-disable */
+
+* {
+    line-height: 1.5;
+    box-sizing: border-box;
+    font-family: "SF Pro Display", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+
+html,
+body,
+#root {
+    font-family: "SF Pro Display", sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+html,
+body,
+div,
+span,
+input,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+.td {
+    vertical-align: top;
+    max-height: 950px;
+}
+
+a {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* stylelint-enable */
